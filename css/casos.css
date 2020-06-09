@@ -1,0 +1,61 @@
+.header{
+  height: 140px;
+  width: 100%;
+  margin-top: -20px;
+  margin-bottom: 1px;
+  padding-right: 5px;
+  padding-left: 10px;
+  background-color:#FFFFFF;
+  border-radius: 0px 0px 0px 0px;
+ 
+  z-index: 1;
+  text-align: center;
+
+}
+
+
+.header > h1{
+
+  font-size: 100px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+
+
+
+
+.ajuste{
+    
+  display: flex;
+  height: 800px;
+  width: 100%;
+  margin-top: -5px;
+  margin-bottom: 10px;
+  /*background-color: white;*/
+  border-radius: 0px;
+  float: none;
+/*  background-image: url('negro1.jpeg'); */
+  background-image: url("../img/negro2.jpeg");
+  background-size: 100% 100%;
+  background-position: center;
+  
+  
+  }
+
+
+  .table-responsive{
+    width: 100% !important;
+    
+  }
+  
+  .table {
+      border: 1px solid black;
+      width: 50% !important; /*Importante manter o !important rs */
+      margin: auto;
+  }
+  
+  .table-status {
+      margin-top: 20px;
+      margin-bottom: 20px !important;
+  }

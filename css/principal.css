@@ -1,0 +1,280 @@
+
+
+.header{
+    height: 140px;
+    width: 100%;
+    margin-top: -20px;
+    margin-bottom: 1px;
+    padding-right: 5px;
+    padding-left: 10px;
+    background-color:#FFFFFF;
+    border-radius: 0px 0px 0px 0px;
+   
+    z-index: 1;
+    text-align: center;
+
+}
+
+
+.header > h1{
+
+    font-size: 100px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+
+
+.barra_links{
+    display:flex;
+    background-color:white;  
+    border-radius: 0px;
+    margin-top: -10px;
+    margin-right: -15px;
+    height: 60px;
+    border:2px solid black;
+    
+    
+ 
+}
+
+.barra_links> button {
+    background-color: white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 20px;
+    text-align: center;
+    color: black;
+
+    
+}
+
+ a {
+
+    color: #000000;
+
+
+}
+
+
+.tudo{
+        display: flex;
+        background-color: white;
+        width: 100%;
+        height: 600px;
+
+}
+
+
+
+.esquerda{
+
+    display: flex 1;
+    width: 33%;
+    background-color: white;
+    border:2px solid black;
+
+
+}
+
+.esquerda_conteudo>p{
+
+    color: black;
+    margin-top: 250px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 20px;
+}
+
+
+
+.central{
+
+    display: flex 4;
+    width: 33%;
+    
+    border:2px solid black;
+    background-image: url("../img/breath.jpg");
+    background-size: 100% 100%;
+    background-position: center;
+
+}
+
+
+.central_conteudo> p{
+
+    color: black;
+    margin-top: 50px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;    
+    font-size: 20px;
+    text-align: center;
+
+
+}
+
+
+.direita{
+
+    display:flex 1;
+    width: 33%;
+    background-color:white;
+    border:2px solid black;
+  
+    
+}
+
+.direita_conteudo> p{
+    color: black;
+    margin-top: 250px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 20px;
+
+}
+
+
+
+
+footer{
+    background-color: white;
+    border:2px solid black;
+}
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
